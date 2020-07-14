@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Veggie integral",
+      "price": "19,90",
+      "description": "Macarrão com couve de Bruxelas, aspargos e ervas finas colhidas no himalaia.",
+      "available": true,
+      "id": 4
     }
   ]
 }
